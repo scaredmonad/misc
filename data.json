@@ -1,0 +1,30 @@
+{
+  "currency": "KES",
+  "data": {
+    "electronics": {
+      "lightbulbs": [
+        {
+          "brand": "Dplight",
+          "title": "Dplight LED Bulb (24 Watts)",
+          "price": 172,
+          "img": "lightbulbs-dplight-24w.jpg",
+          "desc": "Nalalka nooca Dplight ee Kenya."
+        }
+      ],
+      "earphones": [],
+      "cables": [],
+      "fans": [],
+      "loudspeakers": [],
+      "smartphones": [],
+      "batteries": [
+        {
+          "brand": "Ritar",
+          "title": "Ritar Lead-Acid Battery (200Ah)",
+          "price": 35000,
+          "img": "batteries-ritar-200ah.webp",
+          "desc": "Batariga Ritar ee gawaaridha iyo soolaraha loo isticmaalo."
+        }
+      ]
+    }
+  }
+}
