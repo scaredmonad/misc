@@ -22,7 +22,14 @@
           "title": "Ritar Lead-Acid Battery (200Ah)",
           "price": 35000,
           "img": "batteries-ritar-200ah-12v.webp",
-          "desc": "Batariga Ritar ee gawaaridha iyo soolaraha loo isticmaalo."
+          "desc": "Batariga Ritar ee soolaraha loo isticmaalo, iwm."
+        },
+        {
+          "brand": "Hanti",
+          "title": "Hanti Lead-Acid Storage Solar Battery (200Ah)",
+          "price": 34000,
+          "img": "batteries-hanti-200ah-12v.webp",
+          "desc": "Batariga Hanti ee soolaraha loo isticmaalo, iwm."
         }
       ]
     }
