@@ -16,8 +16,53 @@
       "fans": [],
       "loudspeakers": [],
       "washingmachines": [],
-      "solarpanels": [],
       "smartphones": [],
+      "tv": [
+        {
+          "brand": "Starmax",
+          "title": "Starmax M32 TV (2022)",
+          "price": 12500,
+          "img": "tv-starmax-m32.jpg",
+          "desc": "HDTV, Hi-Fi Audio, USB Movie, 2.0ch Speaker."
+        }
+      ],
+      "solarpanels": [
+        {
+          "brand": "Solarmax",
+          "title": "Solarmax Power Inverter 300W",
+          "price": 1800,
+          "img": "solarpanels-power-inverter-300w.jpg",
+          "desc": ""
+        },
+        {
+          "brand": "Solarmax",
+          "title": "Solarmax Power Inverter 600W",
+          "price": 3000,
+          "img": "solarpanels-power-inverter-600w.jpg",
+          "desc": ""
+        },
+        {
+          "brand": "Solarmax",
+          "title": "Solarmax Power Inverter 1000W",
+          "price": 6000,
+          "img": "solarpanels-power-inverter-1000w.jpg",
+          "desc": ""
+        },
+        {
+          "brand": "Solarmax",
+          "title": "Solarmax Power Inverter 1500W",
+          "price": 7000,
+          "img": "solarpanels-power-inverter-1500w.jpg",
+          "desc": ""
+        },
+        {
+          "brand": "Solarmax",
+          "title": "Solarmax Power Inverter 2000W",
+          "price": 11000,
+          "img": "solarpanels-power-inverter-20001.jpg",
+          "desc": ""
+        }
+      ],
       "irons": [
         {
           "brand": "Tesga",
