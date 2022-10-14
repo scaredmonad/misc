@@ -18,6 +18,15 @@
       "washingmachines": [],
       "solarpanels": [],
       "smartphones": [],
+      "irons": [
+        {
+          "brand": "Tesga",
+          "title": "Tesga Dry Iron LM-209",
+          "price": 2000,
+          "img": "irons-tesga-dry-iron-lm-209.jpg",
+          "desc": "Feeraha ee 12V 150W eh."
+        }
+      ],
       "batteries": [
         {
           "brand": "Ritar",
@@ -30,8 +39,15 @@
           "brand": "Hanti",
           "title": "Hanti Lead-Acid Storage Solar Battery (200Ah)",
           "price": 34000,
-          "img": "batteries-hanti-200ah-12v.webp",
+          "img": "batteries-hanti-200ah-12v.jpg",
           "desc": "Batariga Hanti ee soolaraha loo isticmaalo, iwm."
+        },
+        {
+          "brand": "Solarmax",
+          "title": "Solarmax Deep Cycle Solar Battery",
+          "price": 2000,
+          "img": "batteries-solarmax-200ah-12v.jpg",
+          "desc": "Waa 12V 200Ah oo 10 hrs (Original German Technology)."
         }
       ]
     }
