@@ -17,6 +17,33 @@
       "loudspeakers": [],
       "washingmachines": [],
       "smartphones": [],
+      "barber": [
+        {
+          "brand": "Geemy",
+          "title": "Geemy Professional Hair Clipper GM-600B",
+          "price": 1500,
+          "img": "barber-geemy-gm-600b.jpg",
+          "desc": "Standard model."
+        }
+      ],
+      "fridges": [
+        {
+          "brand": "FK",
+          "title": "FK Fridge/Freezer Guard 13AMPS",
+          "price": 520,
+          "img": "fridges-fk-fridge-guard-13amps.jpg",
+          "desc": "Surge suppressor and spike protection."
+        }
+      ],
+      "gym": [
+        {
+          "brand": "General",
+          "title": "General Standard Gym Equipment",
+          "price": 12000,
+          "img": "gym-equipment-01.jpg",
+          "desc": ""
+        }
+      ],
       "tv": [
         {
           "brand": "Starmax",
@@ -27,6 +54,27 @@
         }
       ],
       "solarpanels": [
+        {
+          "brand": "Solarmax",
+          "title": "Solarmax Panel Mono 200W 18V",
+          "price": 9000,
+          "img": "solarpanels-panel-mono-200w-18v.jpg",
+          "desc": ""
+        },
+        {
+          "brand": "Solarmax",
+          "title": "Solarmax Solar Inverter 3000W 12V (With Charger)",
+          "price": 19000,
+          "img": "solarpanels-power-inverter-3000w.jpg",
+          "desc": "12V 3000W 20A 50~60Hz UPS."
+        },
+        {
+          "brand": "Solarmax",
+          "title": "Solarmax Solar Charge Controller 60A",
+          "price": 4500,
+          "img": "solarpanels-solar-charge-controller-60a.jpg",
+          "desc": ""
+        },
         {
           "brand": "Solarmax",
           "title": "Solarmax Power Inverter 300W",
@@ -93,6 +141,13 @@
           "price": 23500,
           "img": "batteries-solarmax-200ah-12v.jpg",
           "desc": "Waa 12V 200Ah oo 10 hrs (Original German Technology)."
+        },
+        {
+          "brand": "Solarmax",
+          "title": "Solarmax Solar Battery 150Ah 12v",
+          "price": 15500,
+          "img": "batteries-solarmax-150ah-12v.jpg",
+          "desc": "Waa 12V 150Ah oo 10 hrs (German Standard)."
         }
       ]
     }
